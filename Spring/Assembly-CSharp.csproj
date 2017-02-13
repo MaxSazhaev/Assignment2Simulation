@@ -46,6 +46,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\ChangeMassText.cs" />
+     <Compile Include="Assets\Scripts\ChangeText.cs" />
+     <Compile Include="Assets\Scripts\Close.cs" />
      <Compile Include="Assets\Scripts\Drag.cs" />
      <Compile Include="Assets\Scripts\Mass.cs" />
      <Compile Include="Assets\Scripts\RopeControl.cs" />

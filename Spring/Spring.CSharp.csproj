@@ -75,8 +75,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Drag.cs" />
-    <Compile Include="Assets\Mass.cs" />
+    <Compile Include="Assets\ChangeMassText.cs" />
+    <Compile Include="Assets\ChangeText.cs" />
+    <Compile Include="Assets\Close.cs" />
+    <Compile Include="Assets\Scripts\Drag.cs" />
+    <Compile Include="Assets\Scripts\Mass.cs" />
+    <Compile Include="Assets\Scripts\RopeControl.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\SyntaxTree\UnityVS\2015\UnityVS.CSharp.targets" />
 </Project>
